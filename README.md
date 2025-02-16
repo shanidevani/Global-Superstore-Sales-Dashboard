@@ -10,7 +10,7 @@ This Power BI report presents a comprehensive analysis of a global retail store'
       - **Avg Delivery Days**: Average delivery duration of 4 days.
       - **Returned Orders**: A total of 1,079 orders were returned, highlighting customer dissatisfaction or product issues.
     
-        ![Top Metrics](images/Top%20Metrics.png)
+        ![Top Metrics](images/KPIs.png)
      
   3. **Sales by Segment (Pie Chart):**
       - Visualizes the revenue distribution across three segments:
